@@ -5,10 +5,10 @@ It provides a clean and unified API for retrieving Tasbih entries from any categ
 
 ## **✨ Features**
 
-* **`loadAll(category)`** — Load the full Tasbih dataset for a category (e.g., `"daily"`, `"weekly"`).
-* **`searchById(category, id)`** — Retrieve a Tasbih entry by its unique ID (string-safe; supports `"1"`, `"2"`, etc.).
-* **`searchByLabel(category, keyword)`** — Find Tasbih entries by Arabic label.
-* **`searchByTranslation(category, translation)`** — Search Tasbih English translations for any translation.
+* **`TasbihKit.loadAll(category)`** — Load the full Tasbih dataset for a category (e.g., `"daily"`, `"weekly"`).
+* **`TasbihKit.searchById(category, id)`** — Retrieve a Tasbih entry by its unique ID (string-safe; supports `"1"`, `"2"`, etc.).
+* **`TasbihKit.searchByLabel(category, keyword)`** — Find Tasbih entries by Arabic label.
+* **`TasbihKit.searchByTranslation(category, translation)`** — Search Tasbih English translations for any translation.
 * Works with **any category**, as long as a JSON file exists.
 * **Simple, predictable JSON structure**: `id`, `label`, `translation`, `count`.
 * **Zero dependencies**, fully ES module compatible.
@@ -193,7 +193,6 @@ This project is open source and contributions are welcome!
 * **npm Package:** [https://www.npmjs.com/package/@mdkva/tasbihkit](https://www.npmjs.com/package/@mdkva/tasbihkit)
 * **Company Website:** [mdkva.com](https://mdkva.com/)
 * **Contact:** [contact@mdkva.com](mailto:contact@mdkva.com)
-* **Author:** [github.com/MDKDanyalk](https://github.com/MDKDanyalk)
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "@mdkva/tasbihkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MDKVA TasbihKit provides clean, structured, and developer-friendly access to commonly used dhikr, tasbih counts, and remembrance phrases — ideal for spiritual apps, Islamic tools, and automation projects.",
   "keywords": [
     "mdkva",
@@ -21,12 +21,6 @@
   },
   "license": "MIT",
   "author": "MDKVA <contact@mdkva.com>",
-  "contributors": [
-    {
-      "name": "M. Danyal Kayani",
-      "email": "danyal@mdkva.com"
-    }
-  ],
   "type": "module",
   "main": "tasbihkit.js",
   "files": [
