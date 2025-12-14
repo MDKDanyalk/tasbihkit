@@ -1,11 +1,11 @@
 **MDKVA TasbihKit** is a lightweight, browser-ready Tasbih loader designed for Islamic web and mobile applications.
-It provides a clean and unified API for retrieving Tasbih entries from any category (daily, weekly, other), perfect for apps, educational tools, dhikr trackers, and spiritual platforms.
+It provides a clean and unified API for retrieving Tasbih entries from any category (general, day-and-night, magic-breaker, and post-prayer), perfect for apps, educational tools, dhikr trackers, and spiritual platforms.
 
 ---
 
 ## **✨ Features**
 
-* **`TasbihKit.loadAll(category)`** — Load the full Tasbih dataset for a category (e.g., `"daily"`, `"weekly"`).
+* **`TasbihKit.loadAll(category)`** — Load the full Tasbih dataset for a category (e.g., `"general"`, `"day-and-night"`).
 * **`TasbihKit.searchById(category, id)`** — Retrieve a Tasbih entry by its unique ID (string-safe; supports `"1"`, `"2"`, etc.).
 * **`TasbihKit.searchByLabel(category, keyword)`** — Find Tasbih entries by Arabic label.
 * **`TasbihKit.searchByTranslation(category, translation)`** — Search Tasbih English translations for any translation.
@@ -42,8 +42,8 @@ import { TasbihKit } from "https://cdn.jsdelivr.net/npm/@mdkva/tasbihkit/tasbihk
 
   async function loadAll() {
     try {
-      // Load all Tasbih entries in the "daily" category
-      const allTasbih = await TasbihKit.loadAll("daily");
+      // Load all Tasbih entries in the "general" category
+      const allTasbih = await TasbihKit.loadAll("general");
 
       console.log("load:", allTasbih);
 
@@ -79,7 +79,7 @@ import { TasbihKit } from "https://cdn.jsdelivr.net/npm/@mdkva/tasbihkit/tasbihk
 
   async function searchById() {
     try {
-      const tasbih = await TasbihKit.searchById("daily", "1");
+      const tasbih = await TasbihKit.searchById("general", "1");
 
       document.getElementById("mdkva-tasbihkit").innerHTML = `
         <h2>${tasbih.id}: ${tasbih.label}</h2>
@@ -108,7 +108,7 @@ import { TasbihKit } from "https://cdn.jsdelivr.net/npm/@mdkva/tasbihkit/tasbihk
   async function searchByLabel() {
     try {
       // Search for Tasbih entries containing "سبحان" in the Arabic label
-      const results = await TasbihKit.searchByLabel("daily", "سبحان");
+      const results = await TasbihKit.searchByLabel("general", "سبحان");
 
       console.log("searchByLabel:", results);
 
@@ -150,7 +150,7 @@ import { TasbihKit } from "https://cdn.jsdelivr.net/npm/@mdkva/tasbihkit/tasbihk
   async function searchByTranslation() {
     try {
       // Search for the translation "Glory" in English translations
-      const results = await TasbihKit.searchByTranslation("daily", "Glory");
+      const results = await TasbihKit.searchByTranslation("general", "Glory");
 
       console.log("search:", results);
 

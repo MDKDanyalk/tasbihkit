@@ -1,7 +1,7 @@
 export const TasbihKit = {
   /**
    * Load the full Tasbih dataset for a given category.
-   * @param {string} category - Category file (e.g., "daily", "weekly", "other").
+   * @param {string} category - Category file (e.g., "general", "day-and-night", "post-prayer").
    * @returns {Promise<Array>} - Array of Tasbih entries
    */
   async loadAll(category) {

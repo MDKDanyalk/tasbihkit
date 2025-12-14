@@ -1,6 +1,6 @@
 {
   "name": "@mdkva/tasbihkit",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "MDKVA TasbihKit provides clean, structured, and developer-friendly access to commonly used dhikr, tasbih counts, and remembrance phrases — ideal for spiritual apps, Islamic tools, and automation projects.",
   "keywords": [
     "mdkva",
@@ -9,9 +9,13 @@
     "dhikr",
     "islam",
     "daily",
+    "day",
+    "night",
     "api",
     "json",
     "islamic",
+    "after prayer",
+    "magic breaker",
     "spiritual"
   ],
   "homepage": "https://mdkva.com/apis/tasbihkit/",
