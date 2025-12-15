@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": "1",
     "label": "سُبْحَانَ اللّٰهِ",
     "translation": "Glory be to Allah.",
@@ -175,26 +175,26 @@
   },
   {
     "id": "30",
-    "label": "آيَةُ الْكُرْسی",
-    "translation": "Allah — there is no god except Him, the Ever-Living, the Sustainer of all.",
+    "label": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+    "translation": "Allah! There is no god worthy of worship except Him, the Ever-Living, All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who could possibly intercede with Him without His permission? He fully knows what is ahead of them and what is behind them, but no one can grasp any of His knowledge—except what He wills to reveal. His Seat1 encompasses the heavens and the earth, and the preservation of both does not tire Him. For He is the Most High, the Greatest.",
     "count": "2"
   },
   {
     "id": "31",
-    "label": "قُلْ هُوَ اللَّهُ أَحَد",
-    "translation": "Say: He is Allah, the One.",
+    "label": "قل هو الله احد۔ الله الصمد۔ لم يلد ولم يولد۔ ولم يكن له كفو احد۔",
+    "translation": "Say, O Prophet, 'He is Allah, One and Indivisible; Allah, the Sustainer needed by all. He has never had offspring, nor was He born. And there is none comparable to Him.'",
     "count": "6"
   },
   {
     "id": "32",
-    "label": "قُلْ أَعُوذُ بِرَبِّ الْفَلَق",
-    "translation": "Say: I seek refuge in the Lord of the dawn.",
+    "label": "قل اعوذ برب الفلق۔ من شر ما خلق۔ ومن شر غاسق اذا وقب۔ ومن شر النفاثات في العقد۔ ومن شر حاسد اذا حسد۔",
+    "translation": "Say, O Prophet, 'I seek refuge with the Lord of Daybreak from the evil of whatever He has created, and from the evil of the darkness when it grows dark, and from the evil of those witches who blow on knots, and from the evil of an envious person when they envy.'",
     "count": "6"
   },
   {
     "id": "33",
-    "label": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
-    "translation": "Say: I seek refuge in the Lord of mankind.",
+    "label": "قل اعوذ برب الناس۔ ملك الناس۔ اله الناس۔ من شر الوسواس الخناس۔ الذي يوسوس في صدور الناس۔ من الجنة والناس۔",
+    "translation": "Say, O Prophet, 'I seek refuge in the Lord of mankind, the Master of mankind, the God of mankind, from the evil of the lurking whisperer, who whispers into the hearts of mankind, from among jinn and mankind.'",
     "count": "6"
   },
   {
@@ -275,7 +275,7 @@
     "translation": "Allah is sufficient for us, and He is the best Disposer of affairs.",
     "count": "100"
   },
-   {
+  {
     "id": "47",
     "label": "أَسْتَغْفِرُ اللّٰهَ",
     "translation": "I seek forgiveness from Allah.",
@@ -289,62 +289,62 @@
   },
   {
     "id": "49",
-    "label": "آيَةُ الْكُرْسی",
-    "translation": "Allah — there is no god except Him, the Ever-Living, the Sustainer of all.",
-    "count": "1"
-  },
-  {
-    "id": "50",
     "label": "رَبِّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
     "translation": "My Lord, protect me from Your punishment on the Day You resurrect Your servants.",
     "count": "1"
   },
   {
-    "id": "51",
+    "id": "50",
     "label": "رَبِّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
     "translation": "My Lord, help me to remember You, to thank You, and to worship You in the best manner.",
     "count": "1"
   },
   {
-    "id": "52",
+    "id": "51",
     "label": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
     "translation": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
     "count": "1"
   },
   {
-    "id": "53",
+    "id": "52",
     "label": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
     "translation": "There is no god except Allah alone, without partner. To Him belongs the dominion and all praise, and He has power over all things.",
     "count": "3"
   },
   {
-    "id": "54",
+    "id": "53",
     "label": "اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
     "translation": "O Allah, none can withhold what You give, and none can give what You withhold, and no wealth or status can benefit its owner against You.",
     "count": "1"
   },
   {
-    "id": "55",
+    "id": "54",
     "label": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
     "translation": "Glory is Yours, O Allah, and praise is Yours. I bear witness that there is no god except You. I seek Your forgiveness and I repent to You.",
     "count": "1"
   },
   {
-    "id": "56",
+    "id": "55",
     "label": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
     "translation": "O Allah, I ask You for beneficial knowledge, pure provision, and accepted deeds.",
     "count": "1"
   },
   {
-    "id": "57",
+    "id": "56",
     "label": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ",
     "translation": "Glory be to the Sovereign, the Most Pure.",
     "count": "3"
   },
   {
-    "id": "58",
+    "id": "57",
     "label": "رَبُّ الْمَلَائِكَةِ وَالرُّوحِ",
     "translation": "Lord of the angels and the Spirit (Jibreel).",
     "count": "1"
+  },
+    {
+    "id": "58",
+    "label": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ. اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيمَ وَعَلَىٰ آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+    "translation": "O Allah, send blessings upon Muhammad and upon the family of Muhammad, as You sent blessings upon Ibrahim and upon the family of Ibrahim. Indeed, You are Praiseworthy, Glorious. O Allah, bestow favor and blessings upon Muhammad and upon the family of Muhammad, as You bestowed favor and blessings upon Ibrahim and upon the family of Ibrahim. Indeed, You are Praiseworthy, Glorious.",
+    "count": 20
   }
 ]
